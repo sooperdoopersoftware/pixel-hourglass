@@ -3,10 +3,12 @@
 A pixel-art falling-sand hourglass: a real cellular-automaton sand
 simulation (canvas 2D, 1 pixel per grid cell), masked into an hourglass
 silhouette. Gravity is a continuous angle rather than a fixed "down," so
-tilting — via drag or real device orientation on a phone — actually
-redistributes the sand. The glass itself spins through a fixed on-screen
-read line as you tilt it, the way a real hourglass looks when you turn it
-over in your hand.
+turning the glass actually redistributes the sand. Drag to turn it about its
+centre (let go mid-swing to fling it) and the glass spins on screen while the
+sand keeps falling toward the bottom of the screen. On a phone, device tilt
+feeds in real gravity instead: the glass stays put on screen and the sand
+falls toward the actual ground, so turning the phone over turns the
+hourglass over.
 
 Extracted from [sooperdoopersoftware.com](https://sooperdoopersoftware.com)'s
 `/visuals/pixel-hourglass`.
