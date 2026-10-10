@@ -38,7 +38,7 @@ render it client-side only (e.g. via `next/dynamic` with `ssr: false`).
 ## Install
 
 ```
-npm install github:sooperdoopersoftware/pixel-hourglass#v0.1.0
+npm install github:sooperdoopersoftware/pixel-hourglass#v0.2.0
 ```
 
 ## License

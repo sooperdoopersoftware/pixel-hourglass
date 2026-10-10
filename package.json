@@ -1,6 +1,6 @@
 {
   "name": "@sooperdoopersoftware/pixel-hourglass",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "description": "A pixel-art falling-sand hourglass (canvas 2D cellular automaton) that tilts by drag or device orientation, with the glass itself spinning through a fixed read line. Ships as TypeScript source; consuming Next.js apps should add this package to transpilePackages.",
   "license": "MIT",
